@@ -9,7 +9,6 @@
 
 /* COMP 348 AB - Assignment 1
    Done By: Syed Ayaan Jilani
-   Student ID: 40209519 
 
    Citations :-
    1) Slides and Lecture notes 
