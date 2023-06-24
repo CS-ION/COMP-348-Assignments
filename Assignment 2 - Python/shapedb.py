@@ -3,9 +3,8 @@ from circle import Circle
 from ellipse import Ellipse
 from rhombus import Rhombus
 
-"""COMP 348 AB - Assignment 1
+"""COMP 348 AB - Assignment 2
    Done By: Syed Ayaan Jilani
-   Student ID: 40209519
 
    Citations :-
    1) Slides and Lecture notes 
