@@ -18,7 +18,6 @@
 
 ;;COMP 348 AB - Assignment 3
 ;;Done By: Syed Ayaan Jilani
-;;Student ID: 40209519
 
 ;;Citations :-
 ;;1) Slides and Lecture notes 
@@ -28,3 +27,5 @@
 ;;Notes :-
 ;;Supressed the clj-kondo warnings by calva 
 ;;mainly for inline definitions of variable.
+;;Better to use "let" binding instead of inline 
+;;defs but let is out of scope for this course
