@@ -1,5 +1,5 @@
 # COMP-348-Assignments
-Assignments done in C, Python, Clojure and Erlong
+Assignments done in C, Python, Clojure and Erlang
 
 ## Assignment 1 - C
 In this assignment you write a program called mathpipe that performs simple operations
