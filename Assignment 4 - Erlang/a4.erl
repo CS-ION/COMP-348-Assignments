@@ -1,7 +1,7 @@
 -module(a4).
 -export([cardealership/2, convertprice/2]).
 
-main(_) -> io:fwrite(cardealership("BMW", "eur")).
+%main(_) -> io:fwrite(cardealership("BMW", "eur")).
 
 cardealership(Car, Currency) ->
     CARS = #{ "BMW" => 15000, "FERRARI" => 17000, "FORD" => 20000 },
