@@ -17,3 +17,6 @@ object), Circle, Ellipse, and Rhombus.
 
 ## Assignment 3 - Clojure
 Simple query management system with the text files provided.
+
+## Assignment 4 - Erlang
+Simple currency converter for a car dealership.
