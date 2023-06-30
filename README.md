@@ -16,4 +16,4 @@ some databases of shapes in text format. Supported shapes are: Shape (the generi
 object), Circle, Ellipse, and Rhombus.
 
 ## Assignment 3 - Clojure
-Simple query management system with the text files provided
+Simple query management system with the text files provided.
